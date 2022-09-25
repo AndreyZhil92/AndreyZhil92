@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=" width="200"/>
+  <img src="https://i.giphy.com/media/ZVik7pBtu9dNS/giphy.webp" width="200"/>
 </div>
